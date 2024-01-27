@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srawet&label=Profile%20views&color=0e75b6&style=flat" alt="srawet" /> </p>
 
-- 🌱 I’m currently learning **on Kodigo**
 
 - 📫 How to reach me **willian.zape65@gmail.com**
 
